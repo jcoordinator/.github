@@ -1,1 +1,1 @@
-# .github
+Welcome to the AI-Driven Talent Ecosystem! 🚀 This project is an intelligent platform designed to connect professionals with job opportunities using AI-powered job matching, career coaching, and workforce management. It incorporates cutting-edge features like blind hiring, gamified referrals, metaverse-powered hiring experiences, and blockchain-based credential verification to revolutionize the hiring process.

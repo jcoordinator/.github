@@ -21,7 +21,7 @@ We’re building Jcoordinator, an AI-powered talent ecosystem that will transfor
 
 Let’s build something incredible together! 🚀
 
-### Calling All Contributors of the Future!
+### 👥 Calling All Contributors of the Future!
 
 Join us in building the next-generation AI-powered Talent Ecosystem — a space where innovation meets opportunity.
 Whether you're an 

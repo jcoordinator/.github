@@ -26,19 +26,19 @@ Let’s build something incredible together! 🚀
 Join us in building the next-generation AI-powered Talent Ecosystem — a space where innovation meets opportunity.
 Whether you're an 
 
-❇️ AI/ML Engineer
-❇️ System Design Expert
-❇️ Backend Engineer
-❇️ Frontend Engineer
-❇️ DevOps & Cloud Engineer
-❇️ Database Architect
-❇️ UI/UX Designer
-❇️ Security & Compliance Expert
-❇️ Blockchain Developer
-❇️ Community Manager / Developer Advocate
-❇️ Product Manager
-❇️ HR and Tech Consultant
-❇️ Career Coache
+* ❇️ AI/ML Engineer
+* ❇️ System Design Expert
+* ❇️ Backend Engineer
+* ❇️ Frontend Engineer
+* ❇️ DevOps & Cloud Engineer
+* ❇️ Database Architect
+* ❇️ UI/UX Designer
+* ❇️ Security & Compliance Expert
+* ❇️ Blockchain Developer
+* ❇️ Community Manager / Developer Advocate
+* ❇️ Product Manager
+* ❇️ HR and Tech Consultant
+* ❇️ Career Coache
 
  your skills can shape the future of hiring, work, growth and workforce management. Let’s build it together! 🚀
 

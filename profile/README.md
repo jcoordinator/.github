@@ -46,5 +46,5 @@ Whether you're an
 
 * Open a [New Issue](https://github.com/jcoordinator/.github/issues) 
 * Join our [Telegram Channel](https://t.me/jcoordinator)
-
+* Send an Email :[j.coordinator.ai@gmail.com](mailto:https://j.coordinator.ai@gmail.com)
 
